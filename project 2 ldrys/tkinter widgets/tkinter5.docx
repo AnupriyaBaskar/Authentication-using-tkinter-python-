@@ -1,0 +1,4 @@
+import tkinter as tk
+a=tk.Tk()
+a.geometry('500*500)
+a.mainloop()
